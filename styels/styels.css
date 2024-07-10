@@ -13,20 +13,20 @@ body{
     background-repeat: no-repeat;
     margin-bottom: 74px;
 }
-.mid-container{
+.middle-container{
     width: 240.28px;
     height: 240px;
     /* background-image: url("/assets/Group.png"); */
     margin: 0 auto;  
 }
-.heading-section{
+.heading-contener{
     height: 136px;
     display: flex;
     justify-content: center;
     text-align: center;
     color: rgb(13, 19, 33);
 }
-.paragraph-section{
+.paragraph-contener{
     height: 52px;
     display: flex;
     font-size: 16px;
@@ -43,8 +43,7 @@ body{
     background: rgb(13, 19, 33);
     text-decoration: none;
     padding-top: 30px;
-}
-.style-btn{
+
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 600;
@@ -58,8 +57,6 @@ body{
     justify-content: center;
     align-items: center;
 }
- 
-/* banner section style ends hare */
  
 /* box section hare */
 .box-container{
